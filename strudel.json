@@ -1,6 +1,8 @@
 { 
   "_base": "https://raw.githubusercontent.com/ash3rw/strudel-samples/main/", 
-  "vox1": "vocal-session-outro-harmony-wet_156bpm_C_minor.wav",
-  "vox2": "vocal-chop-vox-yesterday_150bpm_C_major.wav"
+   "vox": [
+    "vocal-session-outro-harmony-wet_156bpm_C_minor.wav",
+    "vocal-chop-vox-yesterday_150bpm_C_major.wav"
+  ]
 }
 
